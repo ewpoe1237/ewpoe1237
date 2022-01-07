@@ -1,5 +1,5 @@
 # :hearts: Hello! My name is **Jenna Hofseth**.
-### :cherry_blossom: I am a **Junior CS student** in the honors college at **Clemson University** with a minor in **cybersecurity**.
+### :cherry_blossom: I am a **junior CS student** in the honors college at **Clemson University** with a minor in **cybersecurity**.
 
 <!--
 **ewpoe1237/ewpoe1237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
