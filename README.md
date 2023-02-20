@@ -1,5 +1,5 @@
 # :hearts: Hello! My name is **Jenna Hofseth**.
-### :cherry_blossom: I am a **first-semester CS honors student** at **Clemson University** with a minor in **cybersecurity**.
+### :cherry_blossom: I am a **first-semester senior CS honors student** at **Clemson University** with a minor in **cybersecurity**.
 ### :sunflower: In June-December 2022, I worked for **LPL Financial** as a **web development intern** with a **front-end focus** and some **full-stack** tie-ins.
 ### :hibiscus: Computer science has been a long-time passion of mine, and I hope to use this profile as a development hub to share my professional growth.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218799781&cover_image=true&theme=natemoo-re&bar_color=ff0a99&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1218799781&redirect=true)
