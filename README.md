@@ -1,7 +1,9 @@
 # :hearts: Hello! My name is **Jenna Hofseth**.
 ### :cherry_blossom: I am a **second-semester senior CS honors student** at **Clemson University** with a minor in **cybersecurity**.
 ### :sunflower: In June-December 2022, I worked for **LPL Financial** as a **web development intern** with a **front-end focus** and some **full-stack** tie-ins.
-### :hibiscus: Computer science has been a long-time passion of mine, and I hope to use this profile as a development hub to share my professional growth.
+### :hibiscus: In June-August 2023, I worked for **MIT Lincoln Laboratory** as a **Tactical Networks group research intern** and started a research project aiming to discover methods of alleviating the effects of impaired network communication links on UAV communications in ISR missions, particularly related to real-time video transmissions to a ground control station (GCS). This project is still in the works with an ultimate goal to submit a paper with results for review and publication.
+missions (particularly pertaining to object detection and tracking).
+### :rosette: Computer science has been a long-time passion of mine, and I hope to use this profile as a development hub to share my professional growth.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218799781&cover_image=true&theme=natemoo-re&bar_color=ff0a99&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1218799781&redirect=true)
 
 
