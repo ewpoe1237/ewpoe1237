@@ -2,7 +2,7 @@
 ### :cherry_blossom: I graduated in 2023 from *Clemson University* with a _B.S. in C.S._ and a minor in *cybersecurity*. I currently am a _full-time M.S./Ph.D. student researcher at Worcester Polytechnic Institute_, with my work focusing on the optimization of distributed mobile wireless mesh networks.
 ### :sunflower: In June-December 2022, I worked for *LPL Financial* as a *web development intern* with a *front-end focus* and some *full-stack* tie-ins.
 ### :hibiscus: In June-August 2023, I worked for *MIT Lincoln Laboratory* as a *research intern in the Tactical Networks group* and started a project aiming to discover methods of alleviating the effects of impaired network communication links on UAV communications in ISR missions, particularly related to real-time video transmissions to a ground control station (GCS). This research is still in the works with an ultimate goal to submit a paper with results for review and publication.
-### :rosette: Most of my expertise lies in fields including _robotics, network communications, computer vision,_ and _front-end web development_; however, I am always happy to learn more and possess experience in several other areas. Computer science has been a long-time passion of mine, and I hope to use this profile as a development hub to share my professional growth.
+### :rosette: Most of my past work has been in fields including _robotics, network communications, computer vision,_ and _full-stack web development_; however, I am always happy to learn more and have experience in several other areas. Computer science has been a long-time passion of mine, and I hope to use this profile as a development hub to share my professional growth.
 
 
 
